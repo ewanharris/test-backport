@@ -14,6 +14,5 @@ jobs:
         uses: ewanharris/backport@v1.0.28-9
         with:
           bot_username: ewanharris
-          bot_token: b718b5dfad4c2e1052f9d9ee53c24d4995545181
-          bot_token_key: 3f70c476377dfb2981ae443936fd4a39b3f03ed7
+          bot_token: ${{ secrets.ACCESS_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
