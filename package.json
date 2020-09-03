@@ -1,0 +1,23 @@
+{
+  "name": "test-backport",
+  "version": "1.0.0",
+  "description": "samir you're not breaking the car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewanharris/test-backport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewanharris/test-backport/issues"
+  },
+  "homepage": "https://github.com/ewanharris/test-backport#readme",
+  "dependencies": {
+    "rollup": "^1.32.1"
+  }
+}
