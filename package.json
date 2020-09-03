@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ewanharris/test-backport#readme",
   "dependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-axway": "^4.7.3",
     "rollup": "^2.26.9"
   }
 }
