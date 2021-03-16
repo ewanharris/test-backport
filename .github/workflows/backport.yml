@@ -13,5 +13,5 @@ jobs:
       - name: Backport
         uses: ewanharris/tropkcab@main
         with:
-          bot_username: ewanharris
+          username: ewanharris
           github_token: ${{ secrets.GITHUB_TOKEN }}
