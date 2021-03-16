@@ -11,7 +11,7 @@ jobs:
     name: Backport
     steps:
       - name: Backport
-        uses: ewanharris/tropkcab
+        uses: ewanharris/tropkcab@main
         with:
           bot_username: ewanharris
           github_token: ${{ secrets.GITHUB_TOKEN }}
