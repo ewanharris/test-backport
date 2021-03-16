@@ -14,4 +14,4 @@ jobs:
         uses: ewanharris/tropkcab@main
         with:
           username: ewanharris
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
